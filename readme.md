@@ -2,6 +2,9 @@
 
 ちいかわを表示するコマンドです
 
+![スクリーンショット 2024-07-06 17 28 22](https://github.com/nagauta/chiikawa-cli/assets/44369261/8418c189-a12e-4492-af5e-c0fecb16f329)
+
+
 ## Special thanks
 ![Yuki-sanのhandson](https://github.com/yuk1ty/rust-basic-handson)を参考に作成しています
 
